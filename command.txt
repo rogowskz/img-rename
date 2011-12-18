@@ -1,0 +1,19 @@
+
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty" "C:\Dane\images\2011\szwajcaria-razem" 6 0 0 "Szwajcaria - Renata"
+
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Beaty" "C:\Dane\images\2011\szwajcaria-razem" 0 -11 -11 "Szwajcaria - Beata"
+
+python rename-by-time.py "C:\Dane\images\2011\szw-test-src\Renata" "C:\Dane\images\2011\szw-test-src\razem" "Canon PowerShot SD1300 IS" 6 0 0 "Szwajcaria - Renata"
+python rename-by-time.py "C:\Dane\images\2011\szw-test-src\Renata" "C:\Dane\images\2011\szw-test-src\razem" "NIKON D60" 5 48 49 "Szwajcaria - Renata"
+python rename-by-time.py "C:\Dane\images\2011\szw-test-src\Beata" "C:\Dane\images\2011\szw-test-src\razem" "CX4" 0 0 0 "Szwajcaria - Beata"
+
+
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty" "C:\Dane\images\2011\szwajcaria-Renaty-Canon" "Canon PowerShot SD1300 IS" 5 48 49 "Szwajcaria - Renata - Canon"
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty" "C:\Dane\images\2011\szwajcaria-Renaty-Nikon" "NIKON D60" 5 48 49 "Szwajcaria - Renata - Nikon"
+
+
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty-Canon-shift" "C:\Dane\images\2011\szwajcaria-Renaty-Canon" "Canon PowerShot SD1300 IS" 5 48 49 "Szwajcaria - Renata - Canon"
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty-Canon-noshift" "C:\Dane\images\2011\szwajcaria-Renaty-Canon" "Canon PowerShot SD1300 IS" 0 0 0 "Szwajcaria - Renata - Canon"
+
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty-Nikon-shift" "C:\Dane\images\2011\szwajcaria-Renaty-Nikon" "NIKON D60" 5 48 49 "Szwajcaria - Renata - Nikon"
+python rename-by-time.py "C:\Dane\images\2011\szwajcaria-Renaty-Nikon-noshift" "C:\Dane\images\2011\szwajcaria-Renaty-Nikon" "NIKON D60" 0 0 0 "Szwajcaria - Renata - Nikon"
